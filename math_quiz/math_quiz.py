@@ -7,7 +7,6 @@ def function_A(min, max):
     """
     return random.randint(min, max)
 
-dsdsds
 def function_B():
     return random.choice(['+', '-', '*'])
 
